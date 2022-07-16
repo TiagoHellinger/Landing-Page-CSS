@@ -1,2 +1,2 @@
 # Landing-Page-CSS
-Landing Page de turismo, utilizando os conhecimentos em FlexBox
+Layout de página de turismo, posicionando elementos com FlexBox em CSS
